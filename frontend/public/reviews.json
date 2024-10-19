@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "username": "john doe",
+    "rating": 4.5,
+    "reviewTitle": "Great Service!",
+    "reviewText": "I had an amazing experience renting a house through this platform. The process was smooth, and the customer support was very helpful.",
+    "date": "2024-08-26",
+    "likes": 12
+  },
+  {
+    "id": 2,
+    "username": "jane smith",
+    "rating": 4,
+    "reviewTitle": "Highly Recommend",
+    "reviewText": "This platform helped me find the perfect house. The listings were accurate, and the user interface was very intuitive.",
+    "date": "2024-08-25",
+    "likes": 20
+  },
+  {
+    "id": 3,
+    "username": "jhon khan",
+    "rating": 5,
+    "reviewTitle": "Highly Recommend",
+    "reviewText": "This platform helped me find the perfect house. The listings were accurate, and the user interface was very intuitive.",
+    "date": "2024-08-25",
+    "likes": 20
+  },
+  {
+    "id": 4,
+    "username": "Hasan ",
+    "rating": 4,
+    "reviewTitle": "Highly Recommend",
+    "reviewText": "This platform helped me find the perfect house. The listings were accurate, and the user interface was very intuitive.",
+    "date": "2024-08-25",
+    "likes": 20
+  },
+  {
+    "id": 5,
+    "username": "alex 89",
+    "rating": 3.8,
+    "reviewTitle": "Good, but needs improvement",
+    "reviewText": "The experience was generally good, but I faced some delays in communication with the owner. Otherwise, it's a decent platform.",
+    "date": "2024-08-24",
+    "likes": 8
+  }
+]

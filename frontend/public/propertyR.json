@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "name": "Sunny Villa",
+    "bedrooms": 3,
+    "washrooms": 2,
+    "sqft": 1500,
+    "purpose": "rent",
+    "price": 2500,
+    "facilities": {
+      "parking": true,
+      "lift": true,
+      "gym": false,
+      "swimming_pool": true
+    },
+    "details": {
+      "address": "123 Main St, Sunnyville",
+      "summary": "Spacious villa with a beautiful garden.",
+      "balcony": true,
+      "service_charge": 50,
+      "floor": 2,
+      "gas": "centralized"
+    },
+    "img": "https://cristianonew.ukrdevs.com/wp-content/uploads/2016/08/product-1-370x247.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cozy Apartment",
+    "bedrooms": 2,
+    "washrooms": 1,
+    "sqft": 800,
+    "purpose": "sale",
+    "price": 180000,
+    "facilities": {
+      "parking": true,
+      "lift": true,
+      "gym": true,
+      "swimming_pool": false
+    },
+    "details": {
+      "address": "456 Ocean Drive, Beachside",
+      "summary": "Modern apartment with ocean views.",
+      "balcony": true,
+      "service_charge": 100,
+      "floor": 5,
+      "gas": "bottled"
+    },
+    "img": "/mnt/data/house_image.png"
+  },
+  {
+    "id": 3,
+    "name": "Green Park House",
+    "bedrooms": 4,
+    "washrooms": 3,
+    "sqft": 2100,
+    "purpose": "rent",
+    "price": 3200,
+    "facilities": {
+      "parking": true,
+      "lift": false,
+      "gym": false,
+      "swimming_pool": true
+    },
+    "details": {
+      "address": "789 Green Park Lane, Oakville",
+      "summary": "Large family home with a park view.",
+      "balcony": true,
+      "service_charge": 75,
+      "floor": 1,
+      "gas": "natural"
+    },
+    "img": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Beachfront Condo",
+    "bedrooms": 2,
+    "washrooms": 2,
+    "sqft": 1200,
+    "purpose": "sale",
+    "price": 400000,
+    "facilities": {
+      "parking": true,
+      "lift": true,
+      "gym": true,
+      "swimming_pool": true
+    },
+    "details": {
+      "address": "101 Beach Avenue, Coastline",
+      "summary": "Stylish condo with breathtaking ocean views.",
+      "balcony": true,
+      "service_charge": 200,
+      "floor": 7,
+      "gas": "bottled"
+    },
+    "img": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "City Loft",
+    "bedrooms": 1,
+    "washrooms": 1,
+    "sqft": 650,
+    "purpose": "rent",
+    "price": 1500,
+    "facilities": {
+      "parking": false,
+      "lift": true,
+      "gym": true,
+      "swimming_pool": false
+    },
+    "details": {
+      "address": "500 Downtown Blvd, Cityscape",
+      "summary": "Modern loft in the heart of the city.",
+      "balcony": false,
+      "service_charge": 30,
+      "floor": 12,
+      "gas": "centralized"
+    },
+    "img": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Suburban Townhouse",
+    "bedrooms": 3,
+    "washrooms": 2,
+    "sqft": 1600,
+    "purpose": "sale",
+    "price": 250000,
+    "facilities": {
+      "parking": true,
+      "lift": false,
+      "gym": false,
+      "swimming_pool": false
+    },
+    "details": {
+      "address": "222 Suburbia Lane, Uptown",
+      "summary": "Cozy townhouse with a small backyard.",
+      "balcony": true,
+      "service_charge": 0,
+      "floor": 2,
+      "gas": "natural"
+    },
+    "img": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Penthouse Suite",
+    "bedrooms": 4,
+    "washrooms": 4,
+    "sqft": 3200,
+    "purpose": "rent",
+    "price": 7000,
+    "facilities": {
+      "parking": true,
+      "lift": true,
+      "gym": true,
+      "swimming_pool": true
+    },
+    "details": {
+      "address": "333 Highrise Towers, Downtown",
+      "summary": "Luxurious penthouse with stunning city views.",
+      "balcony": true,
+      "service_charge": 400,
+      "floor": 25,
+      "gas": "centralized"
+    },
+    "img": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Countryside Cottage",
+    "bedrooms": 2,
+    "washrooms": 1,
+    "sqft": 900,
+    "purpose": "sale",
+    "price": 120000,
+    "facilities": {
+      "parking": true,
+      "lift": false,
+      "gym": false,
+      "swimming_pool": false
+    },
+    "details": {
+      "address": "88 Country Road, Villageland",
+      "summary": "Charming cottage surrounded by nature.",
+      "balcony": false,
+      "service_charge": 0,
+      "floor": 1,
+      "gas": "bottled"
+    },
+    "img": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Luxury Estate",
+    "bedrooms": 5,
+    "washrooms": 5,
+    "sqft": 5000,
+    "purpose": "rent",
+    "price": 12000,
+    "facilities": {
+      "parking": true,
+      "lift": false,
+      "gym": true,
+      "swimming_pool": true
+    },
+    "details": {
+      "address": "1 Grand Ave, Royal Park",
+      "summary": "Exclusive estate with private pool and gym.",
+      "balcony": true,
+      "service_charge": 500,
+      "floor": 1,
+      "gas": "natural"
+    },
+    "img": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Urban Flat",
+    "bedrooms": 1,
+    "washrooms": 1,
+    "sqft": 700,
+    "purpose": "sale",
+    "price": 170000,
+    "facilities": {
+      "parking": false,
+      "lift": true,
+      "gym": true,
+      "swimming_pool": false
+    },
+    "details": {
+      "address": "456 Central St, Metropolis",
+      "summary": "Compact flat in a bustling urban area.",
+      "balcony": false,
+      "service_charge": 60,
+      "floor": 8,
+      "gas": "centralized"
+    },
+    "img": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Riverfront Bungalow",
+    "bedrooms": 3,
+    "washrooms": 2,
+    "sqft": 1800,
+    "purpose": "rent",
+    "price": 2800,
+    "facilities": {
+      "parking": true,
+      "lift": false,
+      "gym": false,
+      "swimming_pool": false
+    },
+    "details": {
+      "address": "90 River St, Riverside",
+      "summary": "Beautiful bungalow by the river.",
+      "balcony": true,
+      "service_charge": 0,
+      "floor": 1,
+      "gas": "natural"
+    },
+    "img": "https://example.com/image1.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Skyline Condo",
+    "bedrooms": 2,
+    "washrooms": 2,
+    "sqft": 1000,
+    "purpose": "sale",
+    "price": 350000,
+    "facilities": {
+      "parking": true,
+      "lift": true,
+      "gym": true,
+      "swimming_pool": true
+    },
+    "details": {
+      "address": "777 Sky High, City Center",
+      "summary": "Elegant condo with panoramic city views.",
+      "balcony": true,
+      "service_charge": 150,
+      "floor": 15,
+      "gas": "centralized"
+    },
+    "img": "https://example.com/image1.jpg"
+  }
+]
